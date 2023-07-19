@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jeremyapascal@gmail.com**
 
-- ⚡ Fun fact [I'm a dog lover](I'm a dog lover)
+- ⚡ Fun fact [I'm a dog lover]
 
 - You can find my LinkedIn here **https://www.linkedin.com/in/jeremya-pascal-669563223/**
 
