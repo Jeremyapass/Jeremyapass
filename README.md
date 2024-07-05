@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact [I'm a dog lover]
 
-- You can find my LinkedIn here **https://www.linkedin.com/in/jeremya-pascal-669563223/**
+- You can find my LinkedIn here **https://www.linkedin.com/in/jeremya-pascal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
