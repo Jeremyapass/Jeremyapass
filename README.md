@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremya Pascal</h1>
 <h3 align="center">A PASSIONATE WEB DEVELOPER</h3>
 
-- 🌱 I’m currently learning **Tailwind.CSS and ReactJS**
+- 🌱 I’m currently learning **Docker, Jenkins, AWS, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jeremyapass?tab=repositories](https://github.com/Jeremyapass?tab=repositories)
 
